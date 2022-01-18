@@ -1,0 +1,8 @@
+Este arquivo será utilizado para anotações sobre o curso de Git/GitHub
+
+Comandos básicos
+git clone http...
+g
+git add .
+git commint -m "..."
+git push origin main
