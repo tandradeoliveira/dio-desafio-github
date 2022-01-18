@@ -6,3 +6,6 @@ g
 git add .
 git commint -m "..."
 git push origin main
+
+Links úteis:
+markdownguide.org/basic-syntax/
